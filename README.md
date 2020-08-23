@@ -15,7 +15,7 @@ Hipotez testleri kurulmuştur. Target değişkeni için anlamlı olabilecek değ
 
 __Hmeq_Logistic_Regression_Roc:__ Verilen bu ödevde veri seti üzerine logistic reg. fit edilip, o haftanın konusu olan Roc grafiği çizilmiştir.
 
-__Finans_PCA__ O haftanın konusu olan PCA finans veri setine uygulanmıştır.
+__Finans_PCA:__ O haftanın konusu olan PCA finans veri setine uygulanmıştır.
 
 __Hmeq_Classification_Algorithm:__ Derslerde işlenen tüm classification modelleri kullanılmıştır.Tüm sonuçlar karşılaştırılmıştır.
 
