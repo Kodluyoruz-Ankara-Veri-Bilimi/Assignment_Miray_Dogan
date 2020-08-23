@@ -19,7 +19,7 @@ __Finans_PCA:__ O haftanın konusu olan PCA finans veri setine uygulanmıştır.
 
 __Hmeq_Classification_Algorithm:__ Derslerde işlenen tüm classification modelleri kullanılmıştır.Tüm sonuçlar karşılaştırılmıştır.
 
-__Finans(Non_PCA):__Regression Modelleri uygulamalarında PCA'sız olarak sonuçları görmek için ilk reg.modelleri sonuçları CART, Random Forest, YSA için uygulanmıştır.
+__Finans(Non_PCA):__ Regression Modelleri uygulamalarında PCA'sız olarak sonuçları görmek için ilk reg.modelleri sonuçları CART, Random Forest, YSA için uygulanmıştır.
 
 __Finans_Reg.Algorithm__: Finans veri setine üzerine PCA sonrası tüm regression modelleri fit edilmiş. Tüm sonuçlar karşılaştırılmıştır.
 
